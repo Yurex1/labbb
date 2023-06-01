@@ -1,0 +1,1 @@
+<TreeNodeOfintstring xmlns="http://schemas.datacontract.org/2004/07/BinaryTree" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Key>1</Key><Left i:nil="true"/><Right i:nil="true"/><Value>One</Value></TreeNodeOfintstring>

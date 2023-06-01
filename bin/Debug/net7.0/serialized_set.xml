@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ListSetOfint xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/SetApp">
+	<Count>4</Count>
+	<_head>
+		<Next>
+			<Next>
+				<Next>
+					<Next i:nil="true" />
+					<Value>5</Value>
+				</Next>
+				<Value>10</Value>
+			</Next>
+			<Value>1</Value>
+		</Next>
+		<Value>2</Value>
+	</_head>
+</ListSetOfint>
